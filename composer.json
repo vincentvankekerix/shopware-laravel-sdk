@@ -1,11 +1,11 @@
 {
-    "name": "sas/shopware-laravel-sdk",
+    "name": "vincentvankekerix/shopware-laravel-sdk",
     "description": "Shopware SDK for Laravel 8",
     "type": "library",
     "version": "1.0.0",
     "require": {
         "vin-sw/shopware-sdk": "^1.0",
-        "php": "^7.4",
+        "php": "^7.4|^8.0",
         "ext-json": "*",
         "symfony/psr-http-message-bridge": "*"
     },
@@ -17,9 +17,9 @@
     },
     "authors": [
         {
-            "name": "Shape & Shift",
-            "email": "hello@shapeandshift.dev",
-            "homepage": "https://shapeandshift.dev"
+            "name": "Vincent van Kekerix",
+            "email": "vvk@enjoytheshow.nl",
+            "homepage": "https://enjoytheshow.nl"
         }
     ],
     "minimum-stability": "dev",
